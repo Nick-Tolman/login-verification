@@ -124,6 +124,7 @@ else:
 ---
 ## UML Sequence Diagram
 
+![image](https://github.com/user-attachments/assets/71b2e995-1d07-4e52-bfdd-4bf87006c745)
 
 ---
 
