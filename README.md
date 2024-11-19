@@ -5,7 +5,14 @@ This microservice handles user authentication by verifying a username and passwo
 ---
 
 ## Communication Contract
-
+- A. This microservice is for Joo Wang Lee.
+- B. THis microservice is finished.
+- C. N/A
+- D. The code is available in a public github repo and can be ran locally.
+- E. They can message me on discord if any issues come up.
+- F. Preferably as soon as they can so I can fix any issues. I will be out of town from the 27th to the 31st, but I will have my laptop with me, responses just might take a little longer.
+- G. I just hope I explained it well enough and left enough comments.
+  
 ### Base URL
 `http://127.0.0.1:5000`
 
